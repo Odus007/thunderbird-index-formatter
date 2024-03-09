@@ -1,6 +1,6 @@
 import os, csv
 
-files_directory = "csv_index_files"
+files_directory = "place_csv_files_here"
 
 # Function to format the csv files to split the name and then split the name and email address + clean it up
 def format_csv(file_directory):
